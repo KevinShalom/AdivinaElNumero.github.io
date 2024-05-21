@@ -1,4 +1,4 @@
-Juego de Adivina el Número
+# Juego de Adivina el Número
 
 Bienvenido a la página web de "Adivina el Número", un juego simple y divertido donde debes adivinar un número secreto generado aleatoriamente por la computadora. ¡Ponte a prueba y ve cuántos intentos necesitas para adivinar correctamente!
 
