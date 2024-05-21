@@ -16,7 +16,7 @@
 
 # Cómo jugar
 
--Inicio del juego: Al cargar la página, se generará aleatoriamente un número secreto dentro de un rango especificado (por defecto, de 1 a 100).
+- Inicio del juego: Al cargar la página, se generará aleatoriamente un número secreto dentro de un rango especificado (por defecto, de 1 a 100).
 - Ingreso de un número: El usuario ingresa su suposición en el campo de entrada y hace clic en el botón de "Adivinar".
 - Pistas: Después de cada intento, se mostrará una pista indicando si el número secreto es mayor o menor que el número adivinado.
 - Finalización del juego: El juego continúa hasta que el usuario adivine correctamente el número secreto. Al final, se mostrará un mensaje de felicitación junto con el número total de intentos realizados.
